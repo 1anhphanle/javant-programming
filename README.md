@@ -1,0 +1,5 @@
+Những thứ cơ bản nhất về java mà bạn cần bao gồm: kỹ thuật lập trình, cấu trúc dữ liệu và giải thuật và lập trình hướng đối tượng. Repository này biên soạn bởi ANHPHANLE với mục đích giúp cho những người mới có những kiến thức cơ bản nhất của lập trình java, cũng như tổng ôn lại kiến thức nếu bạn là sinh viên năm 3, 4. Repository này bao gồm các phần như sau:
+1.	slide: bạn nên đọc slide theo chủ đề trước để có kiến thức tổng quan của chủ đề muốn học, ngoài ra bạn có thể tìm hiểu thêm những từ khóa trong slide mà bạn chưa biết
+2.	exercise: phần bài tập do mình biên soạn lại dựa trên khóa học của 28tech. chỉ tập trung vào những phần cơ bản tuy nhiên cũng không ít bài tập nâng cao có thể thách thức bạn
+3.	source: src giải bài tập trên, mình sẽ update lời giải liên tục Cuối cùng, trong tương lai mình sẽ hoàn thiện nó một cách chỉnh cho nhất.
+Ngoài ra, tương lai mình sẽ bổ sung thêm C++ và Python với nguồn tài nguyên như vậy, nếu có gì thắc mắc hay cần thêm tài liệu tham khảo, bạn có thể inbox cho tôi fb: https://www.facebook.com/profile.php?id=61553935674391
